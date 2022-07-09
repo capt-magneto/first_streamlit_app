@@ -1,4 +1,5 @@
 # requirements.txt
+streamlit==1.10.0
 pyarrow==6.0.0
 charset-normalizer==2.0.12
 snowflake-connector-python
